@@ -1,2 +1,2 @@
-# webbteknil_abamuh
+# webbteknik_abamuh
 projekt in skol
